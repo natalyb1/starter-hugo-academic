@@ -70,4 +70,4 @@ highlight_name: true
 
  I am a PhD student in the Robust Statistics lab, supervised by Rob Cribbie at York University. I am interested in equivalence testing, the role of power analysis within Psychology, and methods used within structural equation modelling.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

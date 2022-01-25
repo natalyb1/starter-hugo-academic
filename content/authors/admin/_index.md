@@ -25,10 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Quantitative Methods, Psychology
+    institution: York University
+    year: 2019 - Present
   - course: MA in Quantitative Methods, Psychology
     institution: York University
     year: 2019
-  - course: Honours BSc
+  - course: Honours BSc, Psychology
     institution: York University
     year: 2017
   
@@ -43,16 +46,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/natalyberibisky
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=nataly+beribisky&btnG=
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/natalyb1
+- icon: 
+  icon_pack: 
+  link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
- I am a PhD student in the Robust Statistics lab, supervised by Rob Cribbie at York University. I am interested in equivalence testing, the role of power analysis within Psychology, and methods used within structural equation modelling.
+ I am a PhD student in the Robust Statistics lab, supervised by Rob Cribbie at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

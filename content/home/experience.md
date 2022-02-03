@@ -35,7 +35,8 @@ experience:
         Courses
         
         * A Hands-On Introduction to Systematic Reviews and Meta-Analysis
-        
+           * Materials [here](https://tinyurl.com/5bpfmxbx)
+
   - title: Instructor
     company: Statistical Consulting Service
     company_url: 'https://www.isryorku.ca/centres/scs/'

@@ -2,6 +2,7 @@
 # Display name
 title: Nataly Beribisky
 
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -41,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+- icon: 
+  icon_pack: 
+  link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/natalyberibisky
@@ -71,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
- I am a PhD student in the Robust Statistics lab, supervised by Rob Cribbie at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes.
+ I am a PhD student in the Robust Statistics lab, supervised by [Rob Cribbie](https://cribbie.info.yorku.ca/) at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes. Contact me at natalyb1@yorku.ca. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

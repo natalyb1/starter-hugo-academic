@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
- I am a PhD student in the Robust Statistics lab, supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/) at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes. Contact me at natalyb1@yorku.ca. 
+ I am a PhD student in the Robust Statistics lab, supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/) at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes. Contact me at natalyb1@yorku.ca.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

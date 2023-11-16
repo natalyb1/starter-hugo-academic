@@ -22,6 +22,7 @@ interests:
 - Structural Equation Modeling
 - Equivalence Testing
 - Effect sizes
+- Measurement Invariance
 
 # Education to show in About widget
 education:

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nataly Beribisky
+title: Nataly Beribisky, PhD
 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Post-Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Quantitative Methods, Psychology
     institution: York University
-    year: 2019 - Present
+    year: 2023
   - course: MA in Quantitative Methods, Psychology
     institution: York University
     year: 2019
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
- I am a PhD student in the Robust Statistics lab, supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/) at York University. I am interested in equivalence testing, methods used within structural equation modeling, and interpreting effect sizes. Contact me at natalyb1@yorku.ca.  
+My research focuses on latent variable modeling, equivalence testing, and interpreting effect sizes. I recently completed a PhD in the [Quantitative Methods Program](https://qm.info.yorku.ca/) at [York University](https://www.yorku.ca/), where I was supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/). Contact me at nataly.beribisky@gmail.com.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

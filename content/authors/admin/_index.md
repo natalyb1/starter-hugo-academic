@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-My research focuses on latent variable modeling, equivalence testing, and interpreting effect sizes. I recently completed a PhD in the[Quantitative Methods Program](https://qm.info.yorku.ca/), where I was supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/). Contact me at nataly.beribisky@gmail.com.  
+My research focuses on latent variable modeling, equivalence testing, and interpreting effect sizes. I recently completed a PhD in the [Quantitative Methods Program](https://qm.info.yorku.ca/), where I was supervised by [Dr. Robert Cribbie](https://cribbie.info.yorku.ca/). Contact me at nataly.beribisky@gmail.com.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
